@@ -1,0 +1,2 @@
+# LottoGenerator
+Java Lottery Generator
